@@ -30,7 +30,7 @@ public class Nonrepeatingcharacter {
 
   // Driver method
   public static void main(String[] args) {
-    String str = "kristan and tantan";
+    String str = "kristan and kristan";
     int index = firstNonRepeating(str);
 
     System.out.println(
